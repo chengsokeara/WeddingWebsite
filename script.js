@@ -364,6 +364,7 @@ function createHeart() {
 
     heart.innerHTML =
         "♥";
+        "❤️";
 
 
 
@@ -419,7 +420,7 @@ function createHeart() {
 
         },
 
-        10000
+        100000
 
     );
 
