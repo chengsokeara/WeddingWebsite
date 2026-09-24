@@ -56,7 +56,7 @@ if (guestName) {
 else {
 
     guestNameDisplay.textContent =
-        "ចេង សុគារ៉ា & គាត ភីន";
+        "ខន ផានិត";
 
 }
 
